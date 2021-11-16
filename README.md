@@ -1,1 +1,1 @@
-# SE_Div1
+# SE_MINI_PROJECT
